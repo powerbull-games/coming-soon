@@ -484,6 +484,18 @@ input.input100 {
 
 
 
+		.logo {
+			max-height: 120px;
+			margin-bottom: 20px;
+		}
+
+		.social img {
+			max-height: 32px;
+		}
+
+		.social a+a {
+			margin-left: 40px;
+		}
 
 
 
